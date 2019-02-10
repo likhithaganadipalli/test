@@ -1,2 +1,2 @@
 This is line 1 which will not conflict
-This is line 2 by Lithika
+This is line 2 by Lithika Github
